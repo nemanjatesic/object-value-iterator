@@ -1,0 +1,13 @@
+node_modules
+dist
+
+# Log files
+logs
+*.log
+
+# Test coverage and result
+coverage
+junit.xml
+
+# visual studio files
+.vs

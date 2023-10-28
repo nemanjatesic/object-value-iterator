@@ -1,0 +1,17 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES2020",
+    "strict": true,
+    "declaration": true,
+    "sourceMap": true,
+    "declarationMap": true,
+		"outDir": "./dist",
+		"types": [
+			"node",
+			"jest"
+		],
+		"moduleResolution":"node",
+  }
+}
